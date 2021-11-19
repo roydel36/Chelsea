@@ -42,7 +42,7 @@ Affordability - This is an important factor in ranking as exorbitantly high and 
 
 ![East Village](/east.png)
 
-![Chelsea](/chel.png)
+![Chelsea](/chel.png) 
 
 According to our research which analyzes the number of restaurants with the roadway and sidewalk seating availability within Manhattan, the West Village has the most amount of restaurants with roadway seating availability as well as sidewalk seating availability. Following the West Village in the number of restaurants with the most roadway seating availability are Midtown, Soho, the East Village, then Chelsea. Additionally, following the West Village in the number of restaurants with the most sidewalk seating availability are Midtown, East Village, Chelsea, then Soho. These rankings reflect the research done on these individual neighborhoods in Honors Assignment 2, as it was found that the West Village was known for its walkability and frequent bike stations. Since, the streets are found to be narrower in the West Village, driving is not as easy, therefore many New York natives and tourists opt to walk in the ample sidewalk space or utilize its many bike stations. Due to these less busy roads, roadway seating became more available in combination with sidewalk seating. 
 
