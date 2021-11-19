@@ -20,7 +20,9 @@ Most of the rankings system rate the individual aspects of each neighborhood, su
 
 # Most Desirable Outdoor Dining Qualities:
 Accessibility - During COVID, access to open usable roadways and large walkways are essential in ensuring the ability to have a comfortable dining experience that also does not disturb other pedestrians.
+
 Cleanliness - Sanitation is important as many restaurants because of COVID-19 have undergone extreme cleaning procedures and temperature checks are common as well.
+
 Affordability - This is an important factor in ranking as exorbitantly high and unjustified prices does not allow many people to have access to different types of restaurants and dining experiences.
 
 # Rankings:
