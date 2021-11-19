@@ -2,10 +2,12 @@
 
 # Demographics:
 Zip Codes: 10001, 10011
+
 Demographics: Population roughly consists of 50,000 people. The medium age range is about
 35 years old, however, a majority of residents age between 20-29 years old.. 15.8% identify as
 asian, 4.6% identify as black, 17.4% identify as hispanic, and 58.6% identify as white. The male
 to female ratio is approximately 51.7% to 48.3%.
+
 Additional Information: Area codes include 212, 332, 646, and 917 with a 0.774 square
 mileage area. Chelsea is a part of Manhattan Community District 4 and Manhattan Community
 District 5. Chelsea is estimated to have around 2000 combined restaurants and bars within its
