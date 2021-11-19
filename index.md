@@ -34,7 +34,7 @@ Affordability - This is an important factor in ranking as exorbitantly high and 
 
 ## Neighborhood Analysis:
 
-![West Village](/chelsea.png)
+![West Village](/west.png)
 
 ![Midtown](/chelsea.png)
 
