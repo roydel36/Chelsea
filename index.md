@@ -8,12 +8,12 @@ Demographics: Population roughly consists of 50,000 people. The medium age range
 asian, 4.6% identify as black, 17.4% identify as hispanic, and 58.6% identify as white. The male
 to female ratio is approximately 51.7% to 48.3%.
 
-![Map of Chelsea](/chelsea.png)
-
 Additional Information: Area codes include 212, 332, 646, and 917 with a 0.774 square
 mileage area. Chelsea is a part of Manhattan Community District 4 and Manhattan Community
 District 5. Chelsea is estimated to have around 2000 combined restaurants and bars within its
 borders.
+
+![Map of Chelsea](/chelsea.png)
 
 ## Neighborhood Rankings:
 Most of the rankings system rate the individual aspects of each neighborhood, such as nightlife, schooling system, affordability, housing, convenience, safety, and family-friendliness. Some of the ranking systems, such as Niche and Street Advisor, use reviews given by residents in those neighborhoods to aid in the ranking through a five star range. When rating different aspects of the neighborhood, most review systems will cite the experiences of long term residents as evidence. Some sites, such as Curbed’s Walkable Neighborhoods, only focus on one quality when ranking an entire neighborhood (in this instance it is the walkability of an area, which includes bike paths, sidewalk layout, etc.).
