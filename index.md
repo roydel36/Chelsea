@@ -36,9 +36,9 @@ Affordability - This is an important factor in ranking as exorbitantly high and 
 
 ![West Village](/west.png)
 
-![Midtown](/chelsea.png)
+![Midtown](/mid.png)
 
-![SoHo](/chelsea.png)
+![SoHo](/soho.png)
 
 ![East Village](/chelsea.png)
 
